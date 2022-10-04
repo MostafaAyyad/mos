@@ -1,0 +1,7 @@
+CREATE DATABASE crud;
+
+CREATE TABLE records(
+       password int,	
+    UserEmail varchar(50),	
+    UserID int(11) AUTO_INCREMENT
+);	 
